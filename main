@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+        <meta charset="utf-8">
+        <title>document1</title>
+        <link rel="stylesheet" href="style.css">
+          <style>
+               body {
+                   background: url(img/images/ss.gif) no-repeat;
+                   background-size: cover;
+                   background-repeat: no-repeat;
+                   height: 50wh;
+               }
+               table  {
+                       background: url(img/images/sss.jpg) no-repeat;
+                   background-size: cover;
+                   background-repeat: no-repeat;
+                   height: 50wh;
+               }
+            </style>
+     </head>
+        <body>
+            <table border = "2" align="center" width = "70%">
+                <tr>
+            <h1>
+                <td>это мой информационный сайт</td>
+            </h1>
+            </tr>
+        </table>
+            <table border = "2" align="left" width = "70%">
+                <tr>
+
+            <h2>
+               <td>План действий</td>
+            </h2>
+            </tr>
+        </table>
+        <table border = "2" align="left" width = "70%">
+            <tr>
+                <td>Таблица</td>
+                <td>Химия 8 класс</td>
+                <td>Химия 9 класс</td>
+            </tr>
+            <tr>
+                <td rowspan="2">  <ul>
+                    <li> <a href="pages/html.html">периодическая система химических элементов</a>  </li> </ul>
+                    <ul>
+                        <li> <a href="pages/vers.html">Таблица растворимости<a> </li> </ul></td>
+                <td rowspan="2">  
+                    <ul>
+                    <li> <a href="pages/css.html">программа 8 класс <a> </li> </ul>
+                        <ul>
+                <td rowspan="2">  <ul>
+                    <li> <a href="pages/2.html">программа 9 класс<a> </li> </ul>  
+                    </td>
+                </tr>
+            </table>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>    
+            <br>
+            <br>
+            <br>
+
+                <h2>
+                </h2>
+                <ul>
+
+                </ul>
+
+        </body>
+     
+</html>    
